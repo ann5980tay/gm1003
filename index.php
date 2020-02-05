@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.merrickpetcare.com/b/browse-puppy-food/");
+header("Location: https://www.mcafee.com/enterprise/en-ca/security-awareness/cloud.html");
 die();
 ?>
